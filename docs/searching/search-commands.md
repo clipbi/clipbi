@@ -1,7 +1,3 @@
----
-title: 'Search Commands'
----
-
 # Search Commands
 
 @channelname #channelparametername:channelparametervalue

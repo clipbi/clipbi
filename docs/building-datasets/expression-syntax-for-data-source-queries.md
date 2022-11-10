@@ -1,7 +1,3 @@
----
-title: 'Expression Syntax for data source queries'
----
-
 # Expression Syntax for data source queries
 
 ## Basic Structure
