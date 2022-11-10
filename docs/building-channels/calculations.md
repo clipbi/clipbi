@@ -1,7 +1,3 @@
----
-title: 'Calculations'
----
-
 # Calculations
 
 We can use calculations in chapter fields or in dataset variables (coming soon).

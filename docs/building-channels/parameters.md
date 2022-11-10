@@ -1,7 +1,3 @@
----
-title: 'Parameters'
----
-
 # Channel Parameters
 
 We can set a parameter for a single channel with the parameters feature. Parameters can have default values but can also get value dynamically on video creation event for example when user uses "Search Commands".
